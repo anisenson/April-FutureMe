@@ -1,0 +1,29 @@
+header {
+    background-color: #cecece;
+    padding: 15px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.headerDiv {
+    background-color: #cecece;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+
+.headerDiv2 {
+    background-color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+
+.section1 {
+    width: 100%;
+    min-height: 100vh;
+}
+
+.section2 {
+    background-color: #cecece;
+    width: 100%;
+    min-height: 100vh;
+}
