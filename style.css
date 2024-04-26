@@ -27,3 +27,16 @@ header {
     width: 100%;
     min-height: 100vh;
 }
+
+.section3 {
+    width: 100%;
+    min-height: 100vh; 
+}
+
+.card {
+    height: 100%;
+}
+
+.card-img {
+    border-radius:  0.375rem;
+}
