@@ -30,7 +30,7 @@ header {
 
 .section3 {
     width: 100%;
-    min-height: 100vh; 
+    min-height: 80vh; 
 }
 
 .card {
@@ -39,4 +39,42 @@ header {
 
 .card-img {
     border-radius:  0.375rem;
+}
+
+
+
+footer {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #fff;
+    background-color: #cecece;
+    flex-shrink: 0;
+    margin-bottom: 0;
+
+}
+
+
+.customBtn {
+    background-color: #cecece;
+    border-color: white;
+    color: white;
+    font-style: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+
+.customBtn1 {
+    width: 100%;
+}
+
+
+.customBtn:hover {
+    background-color: #131c24;
+    border-color: white;
+}
+
+
+.customBtn:link {
+    background-color: #131c24;
+    border-color: white;
 }
