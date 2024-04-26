@@ -41,6 +41,10 @@ header {
     border-radius:  0.375rem;
 }
 
+.card-header {
+    font-weight: bold;
+    font-size: large;   
+}
 
 
 footer {
