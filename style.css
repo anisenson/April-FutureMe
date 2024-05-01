@@ -1,12 +1,12 @@
 header {
-    background-color: #cecece;
+    background-color: #64c9f8;
     padding: 15px;
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .headerDiv {
-    background-color: #cecece;
+    background-color: #64c9f8;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: bold;
 }
@@ -23,7 +23,7 @@ header {
 }
 
 .section2 {
-    background-color: #cecece;
+    background-color: #64c9f8;
     width: 100%;
     min-height: 100vh;
 }
@@ -51,7 +51,7 @@ header {
 footer {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: #fff;
-    background-color: #cecece;
+    background-color: #64c9f8;
     flex-shrink: 0;
     margin-bottom: 0;
 
@@ -59,9 +59,9 @@ footer {
 
 
 .customBtn {
-    background-color: #cecece;
+    background-color: white;
     border-color: white;
-    color: white;
+    color: #64c9f8;
     font-style: bold;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 
@@ -74,12 +74,23 @@ footer {
 
 
 .customBtn:hover {
-    background-color: #131c24;
+    background-color: #64c9f8;
     border-color: white;
 }
 
 
 .customBtn:link {
-    background-color: #131c24;
+    background-color: #64c9f8;
     border-color: white;
+}
+
+
+
+.hover1 {
+    transition: opacity 0.3s ease-in-out, box-shadow 0.3s ease-in-out; 
+}
+
+.hover1:hover {
+    opacity: 0.8; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3); 
 }
